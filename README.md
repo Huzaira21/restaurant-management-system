@@ -7,6 +7,9 @@ Developed during 2nd semester at Namal University, Mianwali.
 - Order management
 - Billing system
 - Report generation
+- ## Languages Used
+- C++ — Main system logic
+- Assembly Language — Low-level implementation
 
 ## How to Run
 > **Note:** Uses Windows-specific libraries (`windows.h`, `conio.h`)
